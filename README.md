@@ -1,5 +1,5 @@
 -- 👋 Hi, I’m @kennah527
-- 👀 I’m interested in Web Development ,AI, Machine learning & Machine Learning.
+- 👀 I’m interested in Web Development ,AI, Machine learning &Automation.
 - 🌱 I’m currently learning Information TechnologY & Software Development in PLP Academy.
 - 💞️ I’m looking to collaborate on open source, creative coding and community tools.
 - 📫 How to reach me peterkennedy727@gmail.com ,instagram @ kenn__ah.  twitter @ennedy peter
