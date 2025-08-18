@@ -1,10 +1,9 @@
 -- 👋 Hi, I’m @kennah527
-- 👀 I’m interested in Web Development ,AI, Machine learning &Automation.
-- 🌱 I’m currently learning Information TechnologY & Software Development in PLP Academy.
+- 👀 I’m interested in Web Development ,AI, Machine learning &Automation..
 - 💞️ I’m looking to collaborate on open source, creative coding and community tools.
-- 📫 How to reach me peterkennedy727@gmail.com ,instagram @ kenn__ah.  twitter @ennedy peter
+- 📫 How to reach me peterkennedy727@gmail.com ,instagram @ kenn__ah.  twitter @Kennedy peter
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  Little Foxes : The killers of Great Destinies but they are little.
+- ⚡ Fun fact:  Little Foxes :DEBUG THE BUGS WITH DOOM.
 
 <!---
 
