@@ -1,5 +1,5 @@
 -- 👋 Hi, I’m @kennah527
-- 👀 I’m interested in Web Development ,AI, Machine learning &Automation..
+- 👀 I’m interested in Web Development ()..
 - 💞️ I’m looking to collaborate on open source, creative coding and community tools.
 - 📫 How to reach me peterkennedy727@gmail.com ,instagram @ kenn__ah.  twitter @Kennedy peter
 - 😄 Pronouns: He/Him
